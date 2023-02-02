@@ -1,5 +1,4 @@
 import logo from './Inner Bliss Collective (1).png';
-import video from './cover-video.mp4';
 import './App.css';
 
 function App() {
